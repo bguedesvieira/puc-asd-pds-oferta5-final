@@ -1,4 +1,4 @@
-![](/home/bernardo/Pictures/meteor-wallpaper.jpg) 
+![](./img/meteor.jpg) 
 #Trabalho Final da disciplina Produtividade no Desenvolvimento de Software - Bernardo Guedes Vieira.
 # 
 ##Introdução
